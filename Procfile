@@ -1,1 +1,1 @@
-worker: python Fucker_FIXED.py
+worker: python Fucker.py
